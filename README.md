@@ -10,7 +10,7 @@ Paper link: [Arxiv](https://arxiv.org/abs/2304.14636)
 
 ## Overview
 <br>
-<div align="center"><img width="85%" src=".figure/overview.svg"></div>
+<div align="center"><img width="85%" src="figure/overview.svg"></div>
 <br>
 Previous one-shot NAS samples all architectures in the search space when one-shot training of the supernet for better evaluation in evolution search. 
 Instead, PreNAS first searches the target architectures via a zero-cost proxy and next applies preferred one-shot training to supernet. 
