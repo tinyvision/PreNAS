@@ -6,7 +6,7 @@ as confirmed by its superior performance when the code is released.
 
 >Wang H, Ge C, Chen H and Sun X. PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search. ICML 2023.
 
-Paper link: [Arxiv](https://arxiv.org/abs/2304.14636)
+Paper link: [arXiv](https://arxiv.org/abs/2304.14636)
 
 ## Overview
 <br>
@@ -19,7 +19,7 @@ advance selected architectures from the zero-cost search.
 
 ## Environment Setup
 
-To set up the enviroment you can easily run the following command:
+To set up the environment you can easily run the following command:
 ```buildoutcfg
 conda create -n PreNAS python=3.7
 conda activate PreNAS
@@ -55,7 +55,7 @@ The code was run on 8 x 80G A100.
 
 If PreNAS is useful for you, please consider to cite it. Thank you! :)
 ```bibtex
-@InProceedings{AutoFormer,
+@InProceedings{PreNAS,
     title     = {PreNAS: Preferred One-Shot Learning Towards Efficient Neural Architecture Search},
     author    = {Wang, Haibin and Ge, Ce and Chen, Hesen and Sun, Xiuyu},
     booktitle = {International Conference on Machine Learning (ICML)},
